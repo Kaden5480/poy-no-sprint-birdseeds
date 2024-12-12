@@ -3,6 +3,8 @@
 ![Open issues](https://img.shields.io/github/issues/Kaden5480/poy-no-sprint-birdseeds?color=d65c5c)
 ![License](https://img.shields.io/github/license/Kaden5480/poy-no-sprint-birdseeds?color=a35cd6)
 
+Archived because Peaks of Yore provides a separate keybind for bird seeds in newer versions.
+
 A
 [Peaks of Yore](https://store.steampowered.com/app/2236070/)
 mod which disables the sprint keybind for birdseeds.
